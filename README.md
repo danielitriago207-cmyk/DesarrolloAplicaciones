@@ -1,8 +1,20 @@
-# DesarrolloAplicaciones
+#1
+using System;
 
-// Online C# Editor for free
-// Write, Edit and Run your C# code using C# Online Compiler
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Ingrese el su nombre completo");
+        string name = Console.ReadLine();
+        Console.WriteLine("Hola "+name);
+        
+    }
+}
 
+#2
+
+#3
 using System;
 
 public class HelloWorld
@@ -16,3 +28,5 @@ public class HelloWorld
         
     }
 }
+
+#4
